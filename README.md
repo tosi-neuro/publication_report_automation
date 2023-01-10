@@ -1,4 +1,4 @@
-# PUBLICATION REPORT AUTOMATION
+# PUBLICATION REPORT & OPEN ACCESS STATUS AUTOMATION 
 Tool to automate publication reports. The tool aims at saving researchers time in filling out such report and highlight the Open Access status of publiations.
 * This tool was specifically created to help researchers in filling out the Research/Publications portion of the Annual Activities Questionnaire of the Depatrment of Neurology and Neurosurgery, Faculty of Medecine and Health Sciences, McGill University, for the 2022 report.
 * The tool is currently based on an Excel (excel for the web) file with custom scripts that communicates with ORCID (https://orcid.org/) to retrieve a researcher's publications, and Unpaywall (https://unpaywall.org/) to retrieve the Open Access status of each publication.
